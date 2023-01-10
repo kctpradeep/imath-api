@@ -1,0 +1,6 @@
+bottle==0.12.23
+mathgenerator==1.5.0
+mpmath==1.2.1
+numpy==1.24.1
+scipy==1.10.0
+sympy==1.11.1
